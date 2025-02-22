@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m @Iam-Georg
+- 👋 Hi, I’m @Georg
 - 👀 I’m interested in Lua, C#, HTML, CSS and Python
 - 🌱 I’m currently learning LUA and Python
 - ⚡ Fun fact: I'm a beginner
