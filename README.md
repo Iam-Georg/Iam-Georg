@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Georg
 ==============================================================================================================================
 
-ongoing: full-stack developer
+ongoing: developer
 -----------------------------
 
 I've been leaning to code for 1,5 years, after only playing video games. I started with HTML and continued with Python, LUA. Currently I'm working on C#, SQL and just started JS.
